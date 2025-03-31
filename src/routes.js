@@ -6,6 +6,7 @@ import Footer from "components/Footer";
 import PaginaPadrao from "components/PaginaPadrao";
 import Sobre from "pages/Sobre";
 import NotFound from "pages/NotFound";
+import Prato from "pages/Prato"
 
 export default function AppRouter() {
   return (
