@@ -1,5 +1,3 @@
-import Cardapio from 'pages/Cardapio';
-import Inicio from 'pages/Inicio';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Router from './routes'

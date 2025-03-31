@@ -23,7 +23,7 @@ export default function Sobre() {
                         Também possuímos uma cardápio de carnes com muitas opções de acordo com o seu gosto!
                     </p>
                     <p>
-                        Para acompanhar as massas italianas, Aluroni possui uma reserva de vinhos especiais, que harmonizam perfeitamente com o seu parto, seja carne ou massa!
+                        Para acompanhar as massas italianas, Aleroni possui uma reserva de vinhos especiais, que harmonizam perfeitamente com o seu parto, seja carne ou massa!
                     </p>
                 </div>
             </div>
